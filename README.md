@@ -13,7 +13,7 @@ This document serves as a comprehensive guide and reference for implementing spa
 * Scikit-learn: Machine learning library utilized for building and testing spam detection models.
 * NLTK: Natural Language Toolkit for processing text data and extracting features.
 ## Dataset
-The data is collected from [kaggle Email spam dataset][https://www.kaggle.com/datasets/prishasawhney/email-classification-ham-spam]
+The data is collected from [kaggle Email spam dataset](https://www.kaggle.com/datasets/prishasawhney/email-classification-ham-spam)
 To start using the spam detection guide:
 
 ## Contributing
